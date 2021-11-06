@@ -1,0 +1,21 @@
+body
+{
+text-align: center;
+}
+#heading
+{
+    width: 100%;
+    margin-top: 0px;
+    height: 80px;
+    font-size: 40px;
+}
+.head
+{
+    float: right;
+    border: 1px solid aqua;
+}
+canvas
+{
+    border: 3px solid rgb(202, 202, 93);
+    box-shadow: 5px 5px 5px rgb(243, 168, 168);
+}
